@@ -6,7 +6,7 @@ Further details about `@akande/image-carousel` can be found [here](https://www.n
 
 ## Live Demo
 
-[Screenshot](https://github.com/Elliot-Akande/image-carousel-example/blob/main/project-screenshot.png?raw=true)
+![Screenshot](https://github.com/Elliot-Akande/image-carousel-example/blob/main/project-screenshot.png?raw=true)
 
 You can see the live demo of this project by visiting the following link:
 
